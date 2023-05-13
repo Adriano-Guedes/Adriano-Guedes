@@ -8,15 +8,14 @@
 </svg>
 
 
-<div>
-<center><h3>Sobre mim:<\h3><\center>
+#Sobre mim:
   Idioma   | Nível
 --------- | ------
 Português | Nativo
 Inglês | Intermediário
 Espanhol | Básico
 
-<\div>
+
   
   <!--
 **Adriano-Guedes/Adriano-Guedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
