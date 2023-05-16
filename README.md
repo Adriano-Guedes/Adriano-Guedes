@@ -11,20 +11,8 @@
 ### Contatos:
 
 <div>
-<a href="https://www.instagram.com/adriano.aguedes/" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-instagram" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M4 4m0 4a4 4 0 0 1 4 -4h8a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-8a4 4 0 0 1 -4 -4z"></path>
-   <path d="M12 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"></path>
-   <path d="M16.5 7.5l0 .01"></path>
-</svg></a>
-<a href="https://www.linkedin.com/in/adriano-guedes/" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-linkedin" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z"></path>
-   <path d="M8 11l0 5"></path>
-   <path d="M8 8l0 .01"></path>
-   <path d="M12 16l0 -5"></path>
-   <path d="M16 16v-3a2 2 0 0 0 -4 0"></path>
-</svg></a>   
+<a href="https://www.instagram.com/adriano.aguedes/" target="_blank"><img src="https://www.flaticon.com/free-icon/instagram_174855?term=instagram&page=1&position=2&origin=search&related_id=174855" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/adriano-guedes/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>   
 </div>
 
 
