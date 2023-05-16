@@ -5,7 +5,7 @@
 ### Contatos:
 
 <div>
-<a href="https://www.instagram.com/adriano.aguedes/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/></a>
+<a href="https://www.instagram.com/adriano.aguedes/" target="_blank"><img src="http://logo-logos.com/2016/10/Instagram_logo_wordmark_logotype.png" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/adriano-guedes/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>   
 </div>
 
