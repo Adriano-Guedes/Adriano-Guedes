@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Adriano 👋
-## _Bem vindo ao meu Gibhub_
+## _Bem vindos ao meu Gibhub_
 
 <!-- contato -->
 ### Contatos:
