@@ -9,9 +9,8 @@
 </div>
 
 
-### Sobre mim:
-Estudante de sistemas de informação, formado em ciências contábeis na [UniLasalle-RJ](https://www.unilasalle.edu.br/rj). Me especializando na área do desenvolvimento e adquirindo conhecimento para construir uma carreira sólida na mesma. Aprendendo novas tecnologias e ferramentas relevantes para o mercado atual. Sou motivado por desafios técnicos e busco soluções inovadoras para problemas complexos.
-Possuo conhecimento em:
+### Technologies
+
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
@@ -36,10 +35,10 @@ Possuo conhecimento em:
    <path d="M3.6 15h16.8"></path>
    <path d="M11.5 3a17 17 0 0 0 0 18"></path>
    <path d="M12.5 3a17 17 0 0 1 0 18"></path>
-</svg> Idiomas:
-  Idioma   | Nível
+</svg> Languages:
+  Language   | Level
 --------- | ------
-Português | Nativo
-Inglês | Intermediário
-Espanhol | Básico
+Portuguese | Native
+English | Intermediary
+Spanish | Basic
 
