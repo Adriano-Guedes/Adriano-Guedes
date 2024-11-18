@@ -30,5 +30,4 @@
 --------- | ------
 Portuguese | Native
 English | Intermediary
-Spanish | Basic
 
