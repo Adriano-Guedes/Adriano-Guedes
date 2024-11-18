@@ -19,35 +19,35 @@
 <div align="center">
 <h3> Languages: </h3> 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=cs,c,java,js,php,py" />
   </a>
 </p>
 
 <h3> Frameworks: </h3>           
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=angular,electron,laravel" />
   </a>
 </p>
 
 <h3> Platform, Runtime & Library: </h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react" />
   </a>
 </p>
 
 <h3> Database & Cloud: </h3> 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=azure,mysql,sqlite" />
   </a>
 </p>
   
 <h3> Softwares & Tools: </h3> 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=bootstrap,css,discord,docker,git,html,linux,notion,postman" />
   </a>
 </p>
